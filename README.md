@@ -11,4 +11,4 @@ A página possuí semântica, estilização com cores agradáveis aos olhos, res
 </div>
 <br/>
 
-### [Link para a Página](https://luca-merighi.github.io/YouTubeSteps/#upload-videos "YouTubeSteps")
+### [Link para a Página](https://luca-merighi.github.io/YouTubeSteps/ "YouTubeSteps")
