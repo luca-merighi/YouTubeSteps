@@ -1,0 +1,50 @@
+@media(min-width: 768px) {
+    main {
+        padding: 8rem 2.5rem;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    main header,
+    main section {
+        width: 70%;
+    }
+
+}
+
+@media(min-width: 1024px) {
+    .header a {
+        font-size: 1.25rem;
+        gap: 0.25rem;
+    }
+
+    .header a img {
+        width: 1.5rem;
+    }
+
+    main header,
+    main section {
+        margin: 0 auto;
+    }   
+
+    .contact .button {
+        padding: 1rem 0.5rem;
+        width: 50%;
+    }
+}
+
+@media(min-width: 1360px) {
+    .contact .button {
+        width: 35%;
+    }
+
+    
+}
+
+@media(min-width: 1920px) {
+    main header,
+    main section {
+        width: 50%;
+    }  
+}
